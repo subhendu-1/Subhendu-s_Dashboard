@@ -1,5 +1,8 @@
-# Dashbaord-Tutorial-using-React-and-Ant-Design
-This repo contains code base regarding youtube tutorial (https://youtu.be/xvBUgdKUz5g) on how to develop a simple admin Dashboard using ReactJS and Ant Design UI Components.
+
+
+
+# Dashbaord-using-React-and-Ant-Design
+This repo contains code base regarding  on how to develop a simple admin Dashboard using ReactJS and Ant Design UI Components.
 
 The main features includes:
 - App Header with logo, name and notificaiton icons
@@ -12,4 +15,4 @@ The main features includes:
 - Other misc. functions used in admin dashboard portal
 
 # Subhendu-s_Dashboard
-# Subhendu-s_Dashboard
+
